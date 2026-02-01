@@ -46,6 +46,11 @@ Proje, aşağıdaki pin konfigürasyonuna sahip bir Arduino kartı (örn. Uno, N
 
 *Not: LCD adresi `0x27` olarak ayarlanmıştır.*
 
+![Devre Şeması](Schmeatic.png)
+
+[📄 Şematik (PDF)](Schmeatic.pdf)
+
+
 ## Kurulum
 
 1. **Bağımlılıklar**: Arduino IDE'nizde `LiquidCrystal_I2C` kütüphanesinin kurulu olduğundan emin olun.

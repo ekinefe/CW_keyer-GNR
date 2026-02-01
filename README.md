@@ -2,9 +2,6 @@
 
 [Türkçe için tıklayınız (BENIOKU.md)](BENIOKU.md)
 
-
-
-
 A consolidated and feature-rich Arduino-based CW (Morse Code) Keyer, Decoder, and Encoder. This project provides a comprehensive solution for practicing and transmitting Morse code with visual feedback via an LCD and control via a Command Line Interface (CLI).
 
 ## Features
@@ -48,6 +45,11 @@ The project is designed for an Arduino board (e.g., Uno, Nano) with the followin
 | LCD SCL | A5 | I2C Clock |
 
 *Note: The LCD address is set to `0x27`.*
+
+![Schematic Diagram](Schmeatic.png)
+
+[📄 Schematic (PDF)](Schmeatic.pdf)
+
 
 ## Installation
 
