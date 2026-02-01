@@ -1,5 +1,10 @@
 # Ultimate CW Keyer
 
+[Türkçe için tıklayınız (BENIOKU.md)](BENIOKU.md)
+
+
+
+
 A consolidated and feature-rich Arduino-based CW (Morse Code) Keyer, Decoder, and Encoder. This project provides a comprehensive solution for practicing and transmitting Morse code with visual feedback via an LCD and control via a Command Line Interface (CLI).
 
 ## Features
